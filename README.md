@@ -6,7 +6,7 @@
 
 ### Este projeto se desenvolve na resolução do problema para o crossover passivo de dois sinais de um sistema de som. A função deste sistema é dividir frequências vindo do amplificador, direcionando baixas frequências para o woofer e altas para o tweeter. O desafio é realizar a filtragem mantendo a fidelidade do sinal e transição suave entre as caixas de som, tudo isto usando as listas com valores definidos, e valores individuais recebidos por cada aluno.
 
-### Objetivos e especificações do projeto: Projetar um filtro Passa-Baixas (LPF) e um Passa-Altas (HPF), ambos de segunda ordem com resposta Butterworth**.
+### Objetivos e especificações do projeto: Projetar um filtro Passa-Baixas (LPF) e um Passa-Altas (HPF), ambos de segunda ordem com resposta Butterworth.
 
 **Parâmetros Designados :**
 * **Impedância da Carga ($R_L$):** $8~\Omega$
