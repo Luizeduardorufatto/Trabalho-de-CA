@@ -15,13 +15,10 @@
 ### Funções de Transferência e Fórmulas
 
 #### . Cálculo dos Componentes Ideais
+
 Para Butterworth ($\zeta = 0.707$) na frequência ($\omega_c = 2\pi f_c$):
-$$
-L_{ideal} = \frac{\sqrt{2} \cdot R_L}{\omega_c}
-$$
-$$
-C_{ideal} = \frac{\sqrt{2}}{\omega_c \cdot R_L}
-$$
+$$L_{ideal} = \frac{\sqrt{2} \cdot R_L}{\omega_c}$$
+$$C_{ideal} = \frac{\sqrt{2}}{\omega_c \cdot R_L}$$
 
 #### . Funções de Transferência
 * **LPF (Woofer):** $H(s) = \frac{\omega_c^2}{s^2 + \sqrt{2}\omega_c s + \omega_c^2}$
