@@ -39,9 +39,9 @@ O código apresentado, feito em MATLAB, segue a seguinte linha de raciocínio:
 #### Valores Obtidos
 O programa calculou os seguintes valores para atingir $f_c = 2.5~\text{kHz}$:
 
-| Componente | Valor Ideal Calculado | Valor Comercial Selecionado | Erro (%) | 
-| **Indutor ($L$)** | $0.7203~\text{mH}$ | **$0.68~\text{mH}$** | $5.59\%$ | 
-| **Capacitor ($C$)** | $11.25~\mu\text{F}$ | **$12~\mu\text{F}$** | $6.62\%$ | 
+| Componente | Valor Ideal Calculado | Valor Comercial Selecionado | Erro (%) | <br>
+| **Indutor ($L$)** | $0.7203~\text{mH}$ | **$0.68~\text{mH}$** | $5.59\%$ | <br>
+| **Capacitor ($C$)** | $11.25~\mu\text{F}$ | **$12~\mu\text{F}$** | $6.62\%$ | <br>
 
 
 #### Gráficos de Bode 
