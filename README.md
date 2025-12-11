@@ -45,12 +45,9 @@ O programa calculou os seguintes valores para atingir $f_c = 2.5~\text{kHz}$:
 
 
 #### Gráficos de Bode 
+(Graf1.png)
 
-
-
-
-
-
+(Graf2.png)
 
 ### Análise Crítica
 
